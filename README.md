@@ -34,5 +34,5 @@ I will start with the X’s turn, he/she will put the position between 1-9 then 
 * [@sadhanasharma26]()
 
 # License
-* [Apache Licence 2.0]()
+* [MIT]()
 
