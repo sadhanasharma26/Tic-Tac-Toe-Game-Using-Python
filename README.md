@@ -31,8 +31,8 @@ I will start with the X’s turn, he/she will put the position between 1-9 then 
 * [TicTacToeGame .pdf](https://github.com/sadhanasharma26/Tic-Tac-Toe-Game-Using-Python/files/8597595/TicTacToeGame.pdf)
 
 # Authors
-* [@sadhanasharma26]()
+* [@sadhanasharma]()
 
 # License
-* [MIT]()
+* [MIT](https://www.linkedin.com/in/sadhana-sharma-/)
 
